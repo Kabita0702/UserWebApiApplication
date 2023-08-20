@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 4,
+    "EmpName": "Raj",
+    "EmpAddress": "string",
+    "EmpDepartment": "string"
+  },
+  {
+    "Id": 1424347350,
+    "EmpName": "deb",
+    "EmpAddress": "kolkata",
+    "EmpDepartment": "automation"
+  },
+  {
+    "Id": 1545079151,
+    "EmpName": "neha",
+    "EmpAddress": "delhi",
+    "EmpDepartment": "automation"
+  }
+]

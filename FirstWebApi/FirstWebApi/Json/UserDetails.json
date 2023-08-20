@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 0,
+    "UserId": 1,
+    "UserName": "Debanjana",
+    "Specilization": "phy",
+    "IsEmployee": true,
+    "Address": "bakura",
+    "IsActive": true
+  }
+]
